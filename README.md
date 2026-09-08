@@ -1,6 +1,6 @@
-git clone https://github.com/codingacharya/fake-voice.git
+git clone https://github.com/pallavibingi/Voice-cloning.git
 
-cd fake-voice
+cd Voice.cloning
 
 pip install -r requirements.txt
 
