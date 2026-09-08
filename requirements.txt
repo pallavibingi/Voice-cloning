@@ -1,0 +1,8 @@
+streamlit
+librosa
+matplotlib
+numpy
+soundfile
+scipy
+streamlit-mic-recorder
+edge-tts
